@@ -81,7 +81,7 @@ const Clients = clientsModel(sequelize, DataTypes);
 const Users = usersModel(sequelize, DataTypes);
 const Quotations = quotationsModel(sequelize, DataTypes);
 
-//Esquemas equipo 4
+//Schemas equipo 4
 const Carriers = carriersModel(sequelize, DataTypes);
 const Guides = guidesModel(sequelize, DataTypes);
 const Track_inventory = track_inventoryModel(sequelize, DataTypes);
